@@ -756,7 +756,7 @@ img {
     margin-bottom: 10px;
 }
 
-.form-field input {
+.form-field .form-input {
     width: 448px;
     height: 40px;
     border: 1px solid rgba(33, 33, 33, 0.2);
@@ -777,7 +777,7 @@ img {
     left: 12px; 
 }
 
-.form-field textarea {
+.form-field .form-textarea {
     width: 448px;
     height: 120px;
     border: 1px solid rgba(33, 33, 33, 0.2);
